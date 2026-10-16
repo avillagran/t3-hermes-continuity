@@ -1,4 +1,4 @@
-# Hermes Project Continuity for T3
+# T3 Project Continuity
 
 **A T3 Code plugin-style skill**: project-scoped context continuity for new **T3 Code** chats (also compatible with Codex CLI and any client that loads `AGENTS.md`/`SOUL.md`). When you open a new T3 thread on a project, it loads the previous decisions and pending items and discovers the Hermes sessions tied to that repository — no transcript bulk-import, no cross-host memory sync, just targeted session discovery and compact, verified handoff notes shared per repository.
 
@@ -14,8 +14,8 @@ Designed for T3's orchestration model: T3 keeps coordination and general develop
 ## Install
 
 ```sh
-git clone https://github.com/avillagran/hermes-project-continuity.git
-cd hermes-project-continuity
+git clone https://github.com/avillagran/t3-project-continuity.git
+cd t3-project-continuity
 python3 scripts/install.py
 ```
 
