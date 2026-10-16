@@ -14,8 +14,8 @@ Designed for T3's orchestration model: T3 keeps coordination and general develop
 ## Install
 
 ```sh
-git clone https://github.com/avillagran/t3-project-continuity.git
-cd t3-project-continuity
+git clone https://github.com/avillagran/t3-hermes-continuity.git
+cd t3-hermes-continuity
 python3 scripts/install.py
 ```
 
