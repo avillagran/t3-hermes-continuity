@@ -1,6 +1,8 @@
-# Hermes Project Continuity
+# Hermes Project Continuity for T3
 
-Project-scoped context continuity between Hermes coding sessions and new agent chats (T3, Codex, or any client that loads `AGENTS.md`/`SOUL.md`). No transcript bulk-import, no cross-host memory sync — just targeted session discovery and compact, verified handoff notes shared per repository.
+**A T3 Code plugin-style skill**: project-scoped context continuity for new **T3 Code** chats (also compatible with Codex CLI and any client that loads `AGENTS.md`/`SOUL.md`). When you open a new T3 thread on a project, it loads the previous decisions and pending items and discovers the Hermes sessions tied to that repository — no transcript bulk-import, no cross-host memory sync, just targeted session discovery and compact, verified handoff notes shared per repository.
+
+Designed for T3's orchestration model: T3 keeps coordination and general development, Hermes is used as a delegated specialist (browser, devices, distro work), and this tool bridges their project context.
 
 ## What it does
 
